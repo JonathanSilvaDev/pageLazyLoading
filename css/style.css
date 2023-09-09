@@ -16,14 +16,6 @@ body {
     background-color: #222;
 }
 
- p {
-    text-align: center;
-    font-size:1rem;
-    padding: 0.5rem;
-    color: #fff;
-    background-color: #222;
-} 
-
 .container {
     width: 70vw;
     margin: 0 auto;
